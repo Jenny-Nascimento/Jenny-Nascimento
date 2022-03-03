@@ -2,8 +2,8 @@
 <img src="https://user-images.githubusercontent.com/95315837/153099017-c52c754b-eb05-4f06-83e3-d474b13ef709.png" alt="Image" height="300" width="260">
 
 - Hi, I’m @Jenny-Nascimento
-- I’m interested in Mobile Development, JAVA, Kotlin, UX/UI
-- I’m currently learning JAVA, Scrum Methodology, POO
+- I’m interested in Mobile Development, Android, JAVA, Kotlin, UX/UI
+- I’m currently learning about Android, JAVA, Scrum Methodology, POO
 - I’m looking to collaborate on project documentation
 - How to reach me: jennykaroliny@gmail.com
 
